@@ -4,7 +4,7 @@ vue+vue-router+localstorage+豆瓣api打造的电影图书小网站（这是我�
 
 ## 预览
 
-在线演示地址：https://heikaimu.github.io/lyw-app/dist/#/
+在线演示地址：https://heikaimu.github.io/L-movie/dist/#/
 
 ## 技术栈
 * **Vue2.0**：实现前端页面构建
