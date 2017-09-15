@@ -1,6 +1,6 @@
 # 电影看看看
 
-vue+vue-router+localstorage+豆瓣api打造的电影图书小网站
+vue+vue-router+localstorage+豆瓣api打造的电影图书小网站（这是我第一个vue项目，代码写得不好，大家就将就看吧）
 
 ## 预览
 
