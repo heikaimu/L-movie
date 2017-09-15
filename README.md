@@ -17,30 +17,15 @@ vue+vue-router+localstorage+豆瓣api打造的电影图书小网站
 * **vue-resource**：获取豆瓣api数据
 
 ## 截图
-
-电影：
-----
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/movieHome.png)
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/homeType.png)
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/homeDtails.png)
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/movieActorList.png)
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/actarDetails.png)
-<br> <br> <br> 
-书籍：
-----
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/bookType.png)
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/bookList.png)
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/bookDetails.png)
-<br> <br> <br> 
-登录注册：
-----
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/login.png)
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/register.png)
-<br> <br> <br> 
-登录后的侧边栏：
-----
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/sliderBar.png)
-<br> 
-我的收藏：
-----
-![image](https://github.com/heikaimu/lyw-app/raw/master/show/collect.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/movieHome.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/homeType.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/homeDtails.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/movieActorList.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/actarDetails.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/bookType.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/bookList.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/bookDetails.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/login.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/register.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/sliderBar.png)
+![](https://github.com/heikaimu/L-movie/raw/master/show/collect.png)
